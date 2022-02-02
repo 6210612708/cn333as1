@@ -14,4 +14,5 @@
 1. เมื่อผู้เล่นกด submit โดยที่ไม่ได้กดตัวเลข ระบบจะเตือนขึ้นบนหน้าจอ
 2. แป้นพิมพ์ที่ขึ้นบนหน้าจอเป็นแป้นพิมพ์ตัวเลขโดยเฉพาะ
 
-link video : [https://youtu.be/y-Bobv6mZnc]
+link video youtube : [https://youtu.be/y-Bobv6mZnc]
+link video google drive : [https://drive.google.com/file/d/1ikhi4qc1HiRjrvVGoqVPP3_4obCe3u_O/view?usp=sharing]
