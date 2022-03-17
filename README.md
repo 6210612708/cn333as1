@@ -19,6 +19,3 @@ link video youtube : [https://youtu.be/y-Bobv6mZnc]
 
 link video google drive : [https://drive.google.com/file/d/1ikhi4qc1HiRjrvVGoqVPP3_4obCe3u_O/view?usp=sharing]
 
-Interface
-1. เมื่อเปิด Application ขึ้นมา
-![page1](https://user-images.githubusercontent.com/60337681/158844889-7b909d20-de34-4d95-a24a-b157acc37eb8.png)
